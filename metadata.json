@@ -1,0 +1,6 @@
+{
+  "name": "MH Interior Design",
+  "description": "Luxury Interior Design Agency & Modern Architecture Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
